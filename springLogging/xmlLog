@@ -1,0 +1,12 @@
+<log4j:event logger="com.kh.logging.Test02" timestamp="1684744677440" level="INFO" thread="main">
+<log4j:message><![CDATA[인포]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.kh.logging.Test02" timestamp="1684744677441" level="WARN" thread="main">
+<log4j:message><![CDATA[경고]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.kh.logging.Test02" timestamp="1684744677441" level="ERROR" thread="main">
+<log4j:message><![CDATA[에러]]></log4j:message>
+</log4j:event>
+
